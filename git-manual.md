@@ -11,7 +11,7 @@ Ainda seguindo os passos durante a faculdade, sigo criando, primeiramente, o rep
 - **git merge <branch>:** Estando na branch *main*, para conseguir fazer o marge com a outra branch, basta antes:
 	- **git checkout main**
 	- **git pull origin main**
-	- **git merge <branch>**
+	- **git merge branch**
 ---
 ## **Tipagem de Commits**:
    - Utilize prefixos para categorizar os commits:
