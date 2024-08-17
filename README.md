@@ -1,5 +1,9 @@
 # API-HOSPITAL-SPRING-BOOT
 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.2-brightgreen)
+![Java](https://img.shields.io/badge/Java-17-blue)
+![H2 Database](https://img.shields.io/badge/H2-Embedded%20Database-lightgrey)
+![REST API](https://img.shields.io/badge/REST%20API-CRUD%20Operations-orange)
 
 ## Descrição
 
