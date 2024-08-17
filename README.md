@@ -72,13 +72,13 @@ A aplicação utiliza o **H2 Database**, um banco de dados relacional em memóri
 
 - **Obter um Paciente por ID**:
     - Método: `GET`
-    - URL: `http://localhost:8080/api/patients/{id}`
+    - URL: `http://localhost:8080/api/paciente/{id}`
 
 - **Atualizar um Paciente**:
     - Método: `PUT`
-    - URL: `http://localhost:8080/api/pacientes/{id}`
+    - URL: `http://localhost:8080/api/paciente/{id}`
     
 - **Excluir um Paciente**:
     - Método: `DELETE`
-    - URL: `http://localhost:8080/api/pacientes/{id}`
+    - URL: `http://localhost:8080/api/paciente/{id}`
 
