@@ -31,11 +31,12 @@ A aplicação utiliza o **H2 Database**, um banco de dados relacional em memóri
 
 ### Acesso ao Console do H2 Database
 
-- **URL**: `http://localhost:8080/h2-console`
+- **URL DE ACESSO DO H2**: `http://localhost:8080/h2-console`
 - **JDBC URL**: `jdbc:h2:mem:testdb`
 - **Usuário**: `sa`
 - **Senha**: (deixe em branco)
 
+> uma boa prática é realizar o 'test connection' antes de fazer a conexão, vide dublicacoes ou algo do tipo que atrapalhe subir esse banco de dados
 ## Como Usar a API
 
 ### Requisitos
