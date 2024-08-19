@@ -36,7 +36,7 @@ A aplicação utiliza o **H2 Database**, um banco de dados relacional em memóri
 - **Usuário**: `sa`
 - **Senha**: (deixe em branco)
 
-> uma boa prática é realizar o 'test connection' antes de fazer a conexão, vide dublicacoes ou algo do tipo que atrapalhe subir esse banco de dados
+> uma boa prática é realizar o 'test connection' antes de fazer a conexão, vide duplicacoes ou algo do tipo que atrapalhe subir esse banco de dados
 ## Como Usar a API
 
 ### Requisitos
