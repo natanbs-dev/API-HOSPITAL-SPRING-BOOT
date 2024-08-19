@@ -50,10 +50,10 @@ A aplicação utiliza o **H2 Database**, um banco de dados relacional em memóri
 1. **Clone o Repositório**:
     ```bash
     git clone https://github.com/seu-usuario/API-HOSPITAL-SPRING-BOOT.git
-    cd API-HOSPITAL-SPRING-BOOT
+    cd API-HOSPITAL-SPRING-BOOT\projeto\projeto\projeto\projeto
     ```
 
-2. **Compile e Execute a Aplicação**:
+2. **Estando na pasta com maven, compile e Execute a Aplicação**:
     ```bash
     mvn spring-boot:run
     ```
